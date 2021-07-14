@@ -1,0 +1,12 @@
+D:\Dropbox\Uniweb\MPSVJson\MPSVJson\bin\Release\netcoreapp3.1\publish\v1\MPSVJson.exe
+D:\Dropbox\Uniweb\MPSVJson\MPSVJson\bin\Release\netcoreapp3.1\publish\v1\MPSVJson.dll
+D:\Dropbox\Uniweb\MPSVJson\MPSVJson\bin\Release\netcoreapp3.1\publish\v1\MPSVJson.deps.json
+D:\Dropbox\Uniweb\MPSVJson\MPSVJson\bin\Release\netcoreapp3.1\publish\v1\MPSVJson.runtimeconfig.json
+D:\Dropbox\Uniweb\MPSVJson\MPSVJson\bin\Release\netcoreapp3.1\publish\v1\MPSVJson.pdb
+D:\Dropbox\Uniweb\MPSVJson\MPSVJson\bin\Release\netcoreapp3.1\publish\v1\Newtonsoft.Json.dll
+D:\Dropbox\Uniweb\MPSVJson\MPSVJson\bin\Release\netcoreapp3.1\publish\v1\System.Data.SqlClient.dll
+D:\Dropbox\Uniweb\MPSVJson\MPSVJson\bin\Release\netcoreapp3.1\publish\v1\runtimes\win-arm64\native\sni.dll
+D:\Dropbox\Uniweb\MPSVJson\MPSVJson\bin\Release\netcoreapp3.1\publish\v1\runtimes\win-x64\native\sni.dll
+D:\Dropbox\Uniweb\MPSVJson\MPSVJson\bin\Release\netcoreapp3.1\publish\v1\runtimes\win-x86\native\sni.dll
+D:\Dropbox\Uniweb\MPSVJson\MPSVJson\bin\Release\netcoreapp3.1\publish\v1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Dropbox\Uniweb\MPSVJson\MPSVJson\bin\Release\netcoreapp3.1\publish\v1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

@@ -1,0 +1,12 @@
+D:\Dropbox\Uniweb\MPSVJson\Hotovo\v.3\MPSVJson.exe
+D:\Dropbox\Uniweb\MPSVJson\Hotovo\v.3\MPSVJson.dll
+D:\Dropbox\Uniweb\MPSVJson\Hotovo\v.3\MPSVJson.deps.json
+D:\Dropbox\Uniweb\MPSVJson\Hotovo\v.3\MPSVJson.runtimeconfig.json
+D:\Dropbox\Uniweb\MPSVJson\Hotovo\v.3\MPSVJson.pdb
+D:\Dropbox\Uniweb\MPSVJson\Hotovo\v.3\Newtonsoft.Json.dll
+D:\Dropbox\Uniweb\MPSVJson\Hotovo\v.3\System.Data.SqlClient.dll
+D:\Dropbox\Uniweb\MPSVJson\Hotovo\v.3\runtimes\win-arm64\native\sni.dll
+D:\Dropbox\Uniweb\MPSVJson\Hotovo\v.3\runtimes\win-x64\native\sni.dll
+D:\Dropbox\Uniweb\MPSVJson\Hotovo\v.3\runtimes\win-x86\native\sni.dll
+D:\Dropbox\Uniweb\MPSVJson\Hotovo\v.3\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Dropbox\Uniweb\MPSVJson\Hotovo\v.3\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
